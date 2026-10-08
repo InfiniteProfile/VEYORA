@@ -1,0 +1,32 @@
+// VEYORA profiles. One block per profile, started by (- PROFILE -).
+// Keys (all optional except name or handle): name, handle, bio, image, status, category, tags, joined, sector, kind
+// Profiles are numbered automatically in file order. The universe continues in both directions beyond them.
+// Lines that start with "// " are comments.
+
+(- PROFILE -)
+name: Veyora
+handle: veyora
+bio: One profile. Infinite states. Scroll in either direction and it keeps going.
+status: Online
+category: Origin
+tags: origin, signal, veyora
+joined: 2026
+sector: origin-1
+
+(- PROFILE -)
+name: Mira Ashgrove
+handle: mira
+bio: Cartographer of unlit corridors. Draws the places between places.
+status: Away
+category: Atlas
+tags: atlas, maps, corridor
+joined: 2021
+
+(- PROFILE -)
+name: Noir Kestrel
+handle: noir
+bio: Listens to static until it answers.
+status: Drifting
+category: Signal
+tags: static, signal, noir
+joined: 2019

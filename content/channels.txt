@@ -1,0 +1,18 @@
+// VEYORA channels. Same format as profiles.txt, started by (- CHANNEL -).
+// Channels are searchable alongside profiles and carry a "channel" badge.
+
+(- CHANNEL -)
+name: Glass Rivers
+handle: glassrivers
+bio: A channel for slow water, paper tides and anything that reflects.
+category: Archive
+tags: glass, tide, archive
+joined: 2023
+
+(- CHANNEL -)
+name: Night Trains
+handle: nighttrains
+bio: Timetables for journeys that have no destination yet.
+category: Relay
+tags: relay, orbit, dusk
+joined: 2022

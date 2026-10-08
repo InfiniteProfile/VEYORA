@@ -1,1 +1,45 @@
-content
+// VEYORA posts. Add a post by adding a block that starts with (- POST -). Nothing else.
+//
+// Order in this file = order in time: the first block is post 1 (oldest), the last block is the newest.
+// Numbers and links are generated automatically. Never type an ID.
+//
+// Optional lines at the top of a block (any order):
+//   @handle          who posts it (defaults to the first profile)
+//   date: 2026-10-01 shown on the post
+//   tags: one, two   shown under the post
+// Everything else is the post. A line that is only a link becomes media:
+//   images .jpg .png .gif .webp .avif .svg      videos .mp4 .webm .mov
+//   audio .mp3 .wav .ogg .m4a                   files .pdf .docx .xlsx .zip ...
+//   YouTube watch links, youtu.be links and YouTube Shorts (loaded only when tapped)
+//   any other link becomes a link card
+// A post link is built from the post's text, so editing a post's wording gives it a new link.
+
+(- POST -)
+@veyora
+date: 2026-10-01
+The first state. Everything after this is an echo of something that was never written down.
+tags: origin
+
+(- POST -)
+@veyora
+date: 2026-10-02
+Scroll up and the past is regenerated. Scroll down and the future is. Neither one is stored.
+https://picsum.photos/seed/veyora-two/960/600
+
+(- POST -)
+@mira
+date: 2026-10-03
+Drew the corridor from memory. It was longer than the building.
+tags: atlas, corridor
+
+(- POST -)
+@noir
+date: 2026-10-04
+The static said something at 3:12. Writing it down before it changes.
+
+(- POST -)
+@veyora
+date: 2026-10-05
+One profile. Infinite states.
+Open any post and copy its link. That link will find this exact post again, however far away it is.
+tags: links
